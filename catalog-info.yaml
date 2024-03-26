@@ -14,6 +14,7 @@ metadata:
     janus-idp.io/tekton: python-app-0326 
     backstage.io/kubernetes-id: python-app-0326 
     backstage.io/techdocs-ref: dir:. 
+    quay.io/repository-slug: yangcao/python-app-0326
   tags: ["python", "pip", "flask", "sscs", "sbom", "acs"] 
 spec:
   type: service
